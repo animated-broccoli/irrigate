@@ -1,2 +1,2 @@
 # irrigate
-Irrigate is the scheduler for applications
+Irrigate is a health monitor?
